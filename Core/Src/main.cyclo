@@ -1,0 +1,12 @@
+../Core/Src/main.c:59:6:CS43L22_Init	1
+../Core/Src/main.c:115:6:CS43L22_Beep	1
+../Core/Src/main.c:143:6:rainbow_effect	1
+../Core/Src/main.c:163:6:birthday_candles_effect	2
+../Core/Src/main.c:183:6:sparkle_effect	2
+../Core/Src/main.c:208:5:main	2
+../Core/Src/main.c:377:13:MX_GPIO_Init	1
+../Core/Src/main.c:399:6:SystemClock_Config	3
+../Core/Src/main.c:431:13:MX_I2C1_Init	2
+../Core/Src/main.c:448:13:MX_I2S3_Init	2
+../Core/Src/main.c:465:13:MX_DMA_Init	1
+../Core/Src/main.c:472:6:Error_Handler	1
